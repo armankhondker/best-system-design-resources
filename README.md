@@ -1,4 +1,4 @@
-# Best System Design Resources (PENDING RELEASE)
+# Best System Design Resources (Pending full release)
 
 ## System Design Fundamentals
 
