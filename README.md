@@ -1,9 +1,9 @@
-# Best System Design Resources (Pending full release)
+# Best System Design Resources
 
-This repository contains System Design resources to ace your interview and learn Distributed Systems.
+This repository contains System Design resources to ace your interviews
 
-## System Design Fundamentals
+## Fundamental Knowledge
 
-## System Design Interview Problems
+## Patterns
 
 ## Industry Engineering Blogs 
