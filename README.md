@@ -8,7 +8,7 @@ This repository contains System Design resources to ace your interviews.
 ## Books
 
 ## Top Tech Engineering Blogs
-- [How OpenAi Scales Kubernetes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
+- [How OpenAI Scales Kubernetes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
 - [How Stripe Migrated to TypeScript](https://stripe.com/blog/migrating-to-typescript)
 - [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
 - [Debugging with a Netflix Engineer](https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513)
