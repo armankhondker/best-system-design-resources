@@ -4,22 +4,24 @@ This repository contains System Design resources to ace your interviews.
 
 ## System Design Fundamentals
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
-- [SQL vs NoSQL](https://www.mongodb.com/nosql-explained/nosql-vs-sql) 
+- [SQL vs NoSQL](https://www.mongodb.com/nosql-explained/nosql-vs-sql) \
 - [CAP Theorom](https://www.scylladb.com/glossary/cap-theorem/)
 - [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
 - [Microservices](https://microservices.io/)
 - [Database Sharding](https://www.mongodb.com/features/database-sharding-explained#)
-- [Weak vs Strong vs Eventual Consistency](https://systemdesign.one/consistency-patterns/)
+- [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
 - [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/#:~:text=In%20Remote%20Procedure%20Call%20(RPC,on%20a%20specific%20server%20resource. )
-- [Message Queues]()
+- [Message Queues](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/system-design-the-distributed-messaging-queue)
 - [TCP vs UDP](https://www.avast.com/c-tcp-vs-udp-difference#:~:text=TCP%20vs%20UDP%3A%20Differences%20between%20the%20protocols,reliable%20but%20works%20more%20quickly.)
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
 - [Cache](https://aws.amazon.com/caching/)
 - [ACID Transactions]()
-- [Database Sharding]()
+- [Database Sharding](https://aws.amazon.com/what-is/database-sharding/#:~:text=Database%20sharding%20splits%20a%20single,original%20database's%20schema%20or%20design.)
 - [API Gateway](https://www.nginx.com/learn/api-gateway/#:~:text=An%20API%20gateway%20is%20a,%2Dcloud%2C%20and%20hybrid%20environments.)
 - [Fault Tolerance]()
 - [Failovers]()
+- []()
+- [Idempotence]()
 - [Consistent Hasing]()
 - [Consistent Hasing]()
 
@@ -29,7 +31,7 @@ This repository contains System Design resources to ace your interviews.
 
 ## Courses
 - [Grokking the System Design Inteview](https://www.designgurus.io/course/grokking-the-system-design-interview)
-- []()
+- [ByteByteGo Aceing the System Design Interview](https://bytebytego.com/)
 
 ## Books
 - [Designined Data-Intensive Applications](https://github.com/Nitin96Bisht/System-Design/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
@@ -45,24 +47,29 @@ This repository contains System Design resources to ace your interviews.
 ## Must-Do Problems
 
 ### Easy
-- [Design URL Shortening service like TinyURL](https://leetcode.com/discuss/interview-question/system-design/124658/Design-URL-Shortening-service-like-TinyURL)
-- [Design a Distributed Job Scheduler](https://leetcode.com/discuss/general-discussion/1082786/System-Design%3A-Designing-a-distributed-Job-Scheduler-or-Many-interesting-concepts-to-learn)
-- [Design a Web Crawler]()
+- [Design TinyURL](https://leetcode.com/discuss/interview-question/system-design/124658/Design-URL-Shortening-service-like-TinyURL)
+- [Design Distributed Job Scheduler](https://leetcode.com/discuss/general-discussion/1082786/System-Design%3A-Designing-a-distributed-Job-Scheduler-or-Many-interesting-concepts-to-learn)
 - [Design Yelp](https://www.youtube.com/watch?v=M4lR_Va97cQ)
+- [Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
+- [Design Distrbuted Key-Value Store](https://www.youtube.com/watch?v=rnZmdmlR-2M)
 
 ### Medium
 - [Design YouTube](https://leetcode.com/discuss/interview-question/system-design/733520/Design-YouTube-Very-detailed-design-with-diagrams)
-- [Design TikTok](https://www.youtube.com/watch?v=07BVxmVFDGY)
+- [Design TikTok](https://www.youtube.com/watch?v=Z-0g_aJL5Fw)
+- [Design Spotify](https://www.youtube.com/watch?v=_K-eupuDVEc&t=239s) 
 - [Design Facebook](https://leetcode.com/discuss/interview-question/system-design/719253/Design-Facebook-%3A-System-Design-Interview)
+- [Design Notification Service](https://www.youtube.com/watch?v=bBTPZ9NdSk8) 
 - [Design Twitter](https://www.youtube.com/watch?v=o5n85GRKuzk&t=13s)
-- [Design Uber/Lyft](https://www.youtube.com/watch?v=R_agd5qZ26Y) 
+- [Design Dropbox](https://www.youtube.com/watch?v=jLM1nGgsT-I) 
+- [Design Distributed Cache](https://www.youtube.com/watch?v=iuqZvajTOyA)
+- [Design Google Search](https://www.youtube.com/watch?v=0LTXCcVRQi0) 
 
 ### Hard
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Design Uber](https://www.youtube.com/watch?v=R_agd5qZ26Y) 
+- [Design Google Maps](https://www.youtube.com/watch?v=jk3yvVfNvds)
+- [Design Doordash](https://www.youtube.com/watch?v=iRhSAR3ldTw)
+- [Design Rate Limiter](https://www.youtube.com/watch?v=FU4WlwfS3G0)
+- [Design Distributed Message Queue](https://www.youtube.com/watch?v=iJLL-KPqBpM)
 
 ## Top Tech Engineering Blogs
 - [How OpenAI Scales Kubernetes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
