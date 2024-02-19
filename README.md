@@ -4,7 +4,7 @@ This repository contains System Design resources to ace your interviews.
 
 ## System Design Fundamentals
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
-- [SQL vs NoSQL](https://www.mongodb.com/nosql-explained/nosql-vs-sql) \
+- [SQL vs NoSQL](https://www.mongodb.com/nosql-explained/nosql-vs-sql)
 - [CAP Theorom](https://www.scylladb.com/glossary/cap-theorem/)
 - [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
 - [Microservices](https://microservices.io/)
@@ -21,9 +21,8 @@ This repository contains System Design resources to ace your interviews.
 - [Fault Tolerance]()
 - [Failovers]()
 - []()
-- [Idempotence]()
-- [Consistent Hasing]()
-- [Consistent Hasing]()
+- [Idempotence](https://blog.dreamfactory.com/what-is-idempotency/)
+- [Consistent Hasing](https://www.toptal.com/big-data/consistent-hashing)
 
 - [Consistent Hasing]()
 - [WebSockets](https://www.pubnub.com/guides/websockets/)
@@ -51,6 +50,7 @@ This repository contains System Design resources to ace your interviews.
 - [Design Distributed Job Scheduler](https://leetcode.com/discuss/general-discussion/1082786/System-Design%3A-Designing-a-distributed-Job-Scheduler-or-Many-interesting-concepts-to-learn)
 - [Design Yelp](https://www.youtube.com/watch?v=M4lR_Va97cQ)
 - [Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
+- [Design Mint](https://liuzhenglaichn.gitbook.io/system-design/mint/design-mint) 
 - [Design Distrbuted Key-Value Store](https://www.youtube.com/watch?v=rnZmdmlR-2M)
 
 ### Medium
