@@ -4,21 +4,21 @@ This repository contains System Design resources to ace your interviews.
 
 ## System Design Fundamentals
 - [Latency vs Throughput]()
+- [CAP Theorom]()
 - [Load Balancing]()
 - [Microservices]()
 - [Sharding]()
-- [Relational Databases]()
-- [NoSQL Databases]()
+- [SQL vs NoSQL]()
+- [REST vs RPC]()
 - [Message Queues]()
 - [TCP/UDP]()
 - [Domain Name System (DNS)]()
 - [Cache]()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [ACID Transactions]()
+- [Database Sharding]()
+- [API Gateway]()
+- [Fault Tolerance]()
+- [Failovers]()
 - []()
 - []()
 - []()
@@ -30,7 +30,7 @@ This repository contains System Design resources to ace your interviews.
 
 ## Books
 - [Designined Data-Intensive Applications](https://github.com/Nitin96Bisht/System-Design/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
-- [System Design Interview Volume 1](https://github.com/G33kzD3n/Catalogue/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Xu%20(z-lib.org).pdf)
+- [System Design Interview Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
 - [System Design Interview Volume 2](https://github.com/Nitin96Bisht/System-Design/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Yu.pdf)
 
 ## Must Watch Youtube Videos
@@ -43,18 +43,16 @@ This repository contains System Design resources to ace your interviews.
 ## Must Do Problems
 
 ### Easy
+- [Design URL Shortening service like TinyURL](https://leetcode.com/discuss/interview-question/system-design/124658/Design-URL-Shortening-service-like-TinyURL)
+- [Design a Distributed Job Scheduler](https://leetcode.com/discuss/general-discussion/1082786/System-Design%3A-Designing-a-distributed-Job-Scheduler-or-Many-interesting-concepts-to-learn)
 - []()
 - []()
-- []()
-- []()
-
 
 ### Medium
+- [Design YouTube](https://leetcode.com/discuss/interview-question/system-design/733520/Design-YouTube-Very-detailed-design-with-diagrams)
+- [Design TikTok](https://www.youtube.com/watch?v=07BVxmVFDGY)
+- [Design Facebook](https://leetcode.com/discuss/interview-question/system-design/719253/Design-Facebook-%3A-System-Design-Interview)
 - []()
-- []()
-- []()
-- []()
-
 
 ### Hard
 - []()
@@ -71,6 +69,5 @@ This repository contains System Design resources to ace your interviews.
 - [Sharding Pinterest: How to scale MySQL](https://medium.com/pinterest-engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
 - [How Instagram suggests new content](https://engineering.fb.com/2020/12/10/web/how-instagram-suggests-new-content/) 
 - [How Figma Scaled to Multiple Databases](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
-
 
 Your contributions are appreciated! 
