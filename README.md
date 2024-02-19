@@ -60,7 +60,7 @@ This repository contains System Design resources to ace your interviews.
 
 ## Courses
 - [Grokking the System Design Inteview](https://www.designgurus.io/course/grokking-the-system-design-interview)
-- [ByteByteGo Ace Your System Design Interview](https://bytebytego.com/) 
+- [ByteByteGo: Ace Your System Design Interview](https://bytebytego.com/) 
 
 ## Books
 - [Designined Data-Intensive Applications](https://github.com/Nitin96Bisht/System-Design/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
