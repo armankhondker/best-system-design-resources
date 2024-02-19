@@ -22,8 +22,6 @@ This repository contains System Design resources to ace your interviews.
 - [Content Delivery Network](https://aws.amazon.com/what-is/cdn/#:~:text=A%20content%20delivery%20network%20(CDN,loading%20for%20data%2Dheavy%20applications. )
 - [Idempotence](https://blog.dreamfactory.com/what-is-idempotency/)
 - [Consistent Hasing](https://www.toptal.com/big-data/consistent-hashing)
-
-- [Consistent Hasing]()
 - [WebSockets](https://www.pubnub.com/guides/websockets/)
 - [System Design Interview Template](https://leetcode.com/discuss/career/229177/my-system-design-template)
 
