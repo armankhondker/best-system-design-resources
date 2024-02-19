@@ -9,6 +9,7 @@ This repository contains System Design resources to ace your interviews.
 - [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
 - [Microservices](https://microservices.io/)
 - [Database Sharding](https://www.mongodb.com/features/database-sharding-explained#)
+- [SQL Tuning](https://docs.oracle.com/en/database/oracle/oracle-database/23/tgsql/introduction-to-sql-tuning.html#GUID-B653E5F3-F078-4BBC-9516-B892960046A2) 
 - [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
 - [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/#:~:text=In%20Remote%20Procedure%20Call%20(RPC,on%20a%20specific%20server%20resource. )
 - [Message Queues](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/system-design-the-distributed-messaging-queue)
@@ -22,6 +23,7 @@ This repository contains System Design resources to ace your interviews.
 - [Content Delivery Network](https://aws.amazon.com/what-is/cdn/#:~:text=A%20content%20delivery%20network%20(CDN,loading%20for%20data%2Dheavy%20applications. )
 - [Idempotence](https://blog.dreamfactory.com/what-is-idempotency/)
 - [Consistent Hasing](https://www.toptal.com/big-data/consistent-hashing)
+- [Reverse Proxy](https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/#:~:text=A%20reverse%20proxy%20is%20a,security%2C%20performance%2C%20and%20reliability.)
 - [WebSockets](https://www.pubnub.com/guides/websockets/)
 
 ### [System Design Interview Template](https://leetcode.com/discuss/career/229177/my-system-design-template)
