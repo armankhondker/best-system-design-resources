@@ -23,21 +23,8 @@ This repository contains System Design resources to ace your interviews.
 - [Idempotence](https://blog.dreamfactory.com/what-is-idempotency/)
 - [Consistent Hasing](https://www.toptal.com/big-data/consistent-hashing)
 - [WebSockets](https://www.pubnub.com/guides/websockets/)
-- [System Design Interview Template](https://leetcode.com/discuss/career/229177/my-system-design-template)
 
-## Courses
-- [Grokking the System Design Inteview](https://www.designgurus.io/course/grokking-the-system-design-interview)
-
-## Books
-- [Designined Data-Intensive Applications](https://github.com/Nitin96Bisht/System-Design/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
-- [System Design Interview Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
-- [System Design Interview Volume 2](https://github.com/Nitin96Bisht/System-Design/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Yu.pdf)
-
-## Must-Watch Youtube Videos
-- [20 System Design Concepts Explained in 10 minutes](https://www.youtube.com/watch?v=i53Gi_K3o7I&t=60s)
-- [System Design for Beginners Course](https://www.youtube.com/watch?v=m8Icp_Cid5o)
-- [Why is Kafka Fast?](https://www.youtube.com/watch?v=UNUz1-msbOM)
-- [System Design Interview: A Step-By-Step Guide](https://www.youtube.com/watch?v=i7twT3x5yv8)
+### [System Design Interview Template](https://leetcode.com/discuss/career/229177/my-system-design-template)
 
 ## Must-Do Problems
 
@@ -68,6 +55,21 @@ This repository contains System Design resources to ace your interviews.
 - [Design Rate Limiter](https://www.youtube.com/watch?v=FU4WlwfS3G0)
 - [Design Distributed Message Queue](https://www.youtube.com/watch?v=iJLL-KPqBpM)
 - [Design Slack](https://systemdesign.one/slack-architecture/) 
+
+## Courses
+- [Grokking the System Design Inteview](https://www.designgurus.io/course/grokking-the-system-design-interview)
+- [ByteByteGo Ace Your System Design Interview](https://bytebytego.com/) 
+
+## Books
+- [Designined Data-Intensive Applications](https://github.com/Nitin96Bisht/System-Design/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
+- [System Design Interview Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
+- [System Design Interview Volume 2](https://github.com/Nitin96Bisht/System-Design/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Yu.pdf)
+
+## Must-Watch Youtube Videos
+- [20 System Design Concepts Explained in 10 minutes](https://www.youtube.com/watch?v=i53Gi_K3o7I&t=60s)
+- [System Design for Beginners Course](https://www.youtube.com/watch?v=m8Icp_Cid5o)
+- [Why is Kafka Fast?](https://www.youtube.com/watch?v=UNUz1-msbOM)
+- [System Design Interview: A Step-By-Step Guide](https://www.youtube.com/watch?v=i7twT3x5yv8)
 
 ## Top Tech Engineering Blogs
 - [How OpenAI Scales Kubernetes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
