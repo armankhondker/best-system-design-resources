@@ -3,13 +3,13 @@
 This repository contains System Design resources to ace your interviews.
 
 ## System Design Fundamentals
-- [Latency vs Throughput]()
-- [CAP Theorom]()
+- [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
+- [SQL vs NoSQL](https://www.mongodb.com/nosql-explained/nosql-vs-sql) 
+- [CAP Theorom](https://www.scylladb.com/glossary/cap-theorem/)
 - [Load Balancing]()
 - [Microservices]()
-- [Sharding]()
-- [SQL vs NoSQL]()
-- [REST vs RPC]()
+- [Database Sharding](https://www.mongodb.com/features/database-sharding-explained#)
+- [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/#:~:text=In%20Remote%20Procedure%20Call%20(RPC,on%20a%20specific%20server%20resource.)
 - [Message Queues]()
 - [TCP/UDP]()
 - [Domain Name System (DNS)]()
@@ -21,26 +21,25 @@ This repository contains System Design resources to ace your interviews.
 - [Failovers]()
 - []()
 - []()
-- []()
+- [System Design Interview Template](https://leetcode.com/discuss/career/229177/my-system-design-template)
 
 ## Courses
 - [Grokking the System Design Inteview](https://www.designgurus.io/course/grokking-the-system-design-interview)
 - []()
-
 
 ## Books
 - [Designined Data-Intensive Applications](https://github.com/Nitin96Bisht/System-Design/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
 - [System Design Interview Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
 - [System Design Interview Volume 2](https://github.com/Nitin96Bisht/System-Design/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Yu.pdf)
 
-## Must Watch Youtube Videos
+## Must-Watch Youtube Videos
 - [20 System Design Concepts Explained in 10 minutes](https://www.youtube.com/watch?v=i53Gi_K3o7I&t=60s)
 - [System Design for Beginners Course](https://www.youtube.com/watch?v=m8Icp_Cid5o)
 - [Why is Kafka Fast?](https://www.youtube.com/watch?v=UNUz1-msbOM)
 - [System Design Interview: A Step-By-Step Guide](https://www.youtube.com/watch?v=i7twT3x5yv8)
 
 
-## Must Do Problems
+## Must-Do Problems
 
 ### Easy
 - [Design URL Shortening service like TinyURL](https://leetcode.com/discuss/interview-question/system-design/124658/Design-URL-Shortening-service-like-TinyURL)
@@ -52,7 +51,8 @@ This repository contains System Design resources to ace your interviews.
 - [Design YouTube](https://leetcode.com/discuss/interview-question/system-design/733520/Design-YouTube-Very-detailed-design-with-diagrams)
 - [Design TikTok](https://www.youtube.com/watch?v=07BVxmVFDGY)
 - [Design Facebook](https://leetcode.com/discuss/interview-question/system-design/719253/Design-Facebook-%3A-System-Design-Interview)
-- []()
+- [Design Twitter](https://www.youtube.com/watch?v=o5n85GRKuzk&t=13s)
+- [Design Uber/Lyfy](https://www.youtube.com/watch?v=R_agd5qZ26Y) 
 
 ### Hard
 - []()
