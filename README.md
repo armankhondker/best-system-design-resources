@@ -9,7 +9,7 @@ This repository contains System Design resources to ace your interviews.
 - [Load Balancing]()
 - [Microservices]()
 - [Database Sharding](https://www.mongodb.com/features/database-sharding-explained#)
-- [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/#:~:text=In%20Remote%20Procedure%20Call%20(RPC,on%20a%20specific%20server%20resource.)
+- [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/#:~:text=In%20Remote%20Procedure%20Call%20(RPC,on%20a%20specific%20server%20resource)
 - [Message Queues]()
 - [TCP/UDP]()
 - [Domain Name System (DNS)]()
