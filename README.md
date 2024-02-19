@@ -4,8 +4,17 @@ This repository contains System Design resources to ace your interviews.
 
 ## System Design Fundamentals
 
+## Courses
+- [Grokking the System Design Inteview](https://www.designgurus.io/course/grokking-the-system-design-interview)
+- 
 
 ## Books
+- [Designined Data-Intensive Applications](https://github.com/Nitin96Bisht/System-Design/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
+- [System Design Interview Volume 1](https://github.com/G33kzD3n/Catalogue/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Xu%20(z-lib.org).pdf)
+- [System Design Interview Volume 2](https://github.com/Nitin96Bisht/System-Design/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Yu.pdf) 
+
+
+## Must Do Problems
 
 ## Top Tech Engineering Blogs
 - [How OpenAI Scales Kubernetes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
