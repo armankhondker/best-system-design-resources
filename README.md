@@ -7,6 +7,7 @@ This repository contains System Design resources to ace your interviews.
 - [SQL vs NoSQL](https://www.mongodb.com/nosql-explained/nosql-vs-sql)
 - [CAP Theorom](https://www.scylladb.com/glossary/cap-theorem/)
 - [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
+- [Horizontal vs Vertical Scaling](https://www.nops.io/blog/horizontal-vs-vertical-scaling/#:~:text=The%20primary%20difference%20between%20horizontal,.)%20to%20an%20existing%20machine.)
 - [Microservices](https://microservices.io/)
 - [Database Sharding](https://www.mongodb.com/features/database-sharding-explained#)
 - [Database Replication](https://redis.com/blog/what-is-data-replication/) 
