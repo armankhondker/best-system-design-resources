@@ -75,6 +75,12 @@ This repository contains System Design resources to ace your interviews.
 - [Why is Kafka Fast?](https://www.youtube.com/watch?v=UNUz1-msbOM)
 - [System Design Interview: A Step-By-Step Guide](https://www.youtube.com/watch?v=i7twT3x5yv8)
 
+## Best Engineering Newsletters
+- [The Developing Dev](https://www.developing.dev/) by Ryan Peterman
+- [ByteByteGo](https://blog.bytebytego.com/) by Alex Xu
+- [System Design Newsletter](https://systemdesign.one/) by Neo Kim
+- [Byte Sized Design](https://bytesizeddesign.substack.com/) by Alex Nguyen
+
 ## Top Tech Engineering Blogs
 - [How OpenAI Scales Kubernetes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
 - [How Stripe migrated a million lines of code](https://stripe.com/blog/migrating-to-typescript)
@@ -83,6 +89,8 @@ This repository contains System Design resources to ace your interviews.
 - [Sharding Pinterest: How to scale MySQL](https://medium.com/pinterest-engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
 - [How Instagram suggests new content](https://engineering.fb.com/2020/12/10/web/how-instagram-suggests-new-content/) 
 - [How Figma Scaled to Multiple Databases](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
-- [Finding Kafka's limit at Dropbox](https://dropbox.tech/infrastructure/finding-kafkas-throughput-limit-in-dropbox-infrastructure) 
+- [Finding Kafka's limit at Dropbox](https://dropbox.tech/infrastructure/finding-kafkas-throughput-limit-in-dropbox-infrastructure)
+
+
 
 Your contributions are appreciated! 
