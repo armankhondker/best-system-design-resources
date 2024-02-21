@@ -1,6 +1,6 @@
 # Best System Design Resources
 
-This repository contains System Design free resources to ace your interviews
+This repository contains free System Design resources to ace your interviews
 
 ## System Design Fundamentals
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
