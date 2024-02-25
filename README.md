@@ -26,6 +26,7 @@ This repository contains free System Design resources to ace your interviews
 - [Idempotence](https://blog.dreamfactory.com/what-is-idempotency/)
 - [Consistent Hasing](https://www.toptal.com/big-data/consistent-hashing)
 - [Reverse Proxy](https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/#:~:text=A%20reverse%20proxy%20is%20a,security%2C%20performance%2C%20and%20reliability.)
+- [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f) 
 - [WebSockets](https://www.pubnub.com/guides/websockets/)
 
 ### [System Design Interview Template](https://leetcode.com/discuss/career/229177/my-system-design-template)
