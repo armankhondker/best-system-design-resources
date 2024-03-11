@@ -92,6 +92,4 @@ This repository contains the best resources for System Design interview prep.
 - [How Figma Scaled to Multiple Databases](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
 - [Finding Kafka's limit at Dropbox](https://dropbox.tech/infrastructure/finding-kafkas-throughput-limit-in-dropbox-infrastructure)
 
-
-
 Your contributions are appreciated! 
