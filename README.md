@@ -1,6 +1,6 @@
 # Best System Design Resources
 
-This repository contains the best resources for System Design interview prep.
+This repository contains the best resources for System Design Interviews. 
 
 ## System Design Fundamentals
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
